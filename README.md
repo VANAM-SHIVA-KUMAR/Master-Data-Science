@@ -4,7 +4,7 @@
 - [Python Practice Exercises](https://github.com/VANAM-SHIVA-KUMAR/Master-Data-Science/blob/main/Python%20for%20Data%20Science/Python%20Practice%20Exercises.pdf)
 - [Python Handbook](https://github.com/VANAM-SHIVA-KUMAR/Master-Data-Science/blob/main/Python%20for%20Data%20Science/Python%20Handbook-1.pdf)
 - [Python for Data Analysis - Book](https://github.com/VANAM-SHIVA-KUMAR/Master-Data-Science/blob/main/Python%20for%20Data%20Science/Python%20for%20Data%20Analysis%20_%20data%20wrangling%20with%20Pandas-%20NumPy-%20and%20IPython.pdf)
-## Libraries 
+## Libraries  
 #### All text and CSV/TSV files
 - [Files to practice](https://github.com/VANAM-SHIVA-KUMAR/Master-Data-Science/tree/main/Python%20Libraries/All_text_and_CSV_files)
 #### NumPy
