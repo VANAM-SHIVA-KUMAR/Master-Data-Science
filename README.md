@@ -1,4 +1,4 @@
-# Learn_Data_Science_Here     
+# Learn_Data_Science_Here    
 ## Python  
 - [Necessary_Python_to_start_data_scinece](https://github.com/VANAM-SHIVA-KUMAR/Master-Data-Science/blob/main/Python%20for%20Data%20Science/Necessary_Python_to_start_data_scinece.ipynb)
 - [Python Practice Exercises](https://github.com/VANAM-SHIVA-KUMAR/Master-Data-Science/blob/main/Python%20for%20Data%20Science/Python%20Practice%20Exercises.pdf)
