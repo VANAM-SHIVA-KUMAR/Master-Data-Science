@@ -13,7 +13,7 @@
 #### Pandas
 - [Pandas Notes](https://github.com/VANAM-SHIVA-KUMAR/Master-Data-Science/blob/main/Python%20Libraries/Pandas_Notes.pdf)
 - [Pandas cheat sheet](https://github.com/VANAM-SHIVA-KUMAR/Master-Data-Science/blob/main/Python%20Libraries/Pandas.pdf)
-#### Matplotlib & Seaborn
+#### Matplotlib & Seaborn 
 - [Matplotlib & Seaborn Notes](https://github.com/VANAM-SHIVA-KUMAR/Master-Data-Science/blob/main/Python%20Libraries/Matplotlib_%26_Seaborn.pdf)
 - [Matplotlib Cheat Sheet](https://github.com/VANAM-SHIVA-KUMAR/Master-Data-Science/blob/main/Python%20Libraries/matplotlib%20tips.pdf)
 - [Seaborn Cheat Sheet](https://github.com/VANAM-SHIVA-KUMAR/Master-Data-Science/blob/main/Python%20Libraries/Seaborn.pdf)
